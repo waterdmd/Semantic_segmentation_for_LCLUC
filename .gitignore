@@ -23,5 +23,5 @@ TestResults.xml
 *.txt
 *.png
 *.pth
-*.DS
+*.DS_Store
 __pycache__
