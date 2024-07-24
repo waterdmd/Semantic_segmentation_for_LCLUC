@@ -1,4 +1,4 @@
-# Interactive Map
+# MRG Land Cover Land Use Classification (2023)
 
 View the interactive map [here](https://asu.maps.arcgis.com/home/webmap/viewer.html?webmap=7a58581ed3a142dab961bd18f0d0aa11).
 
