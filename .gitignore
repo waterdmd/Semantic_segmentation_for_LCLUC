@@ -23,3 +23,5 @@ TestResults.xml
 *.txt
 *.png
 *.pth
+*.DS
+__pycache__
