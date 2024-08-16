@@ -4,4 +4,4 @@ View the interactive map [here](https://asu.maps.arcgis.com/home/webmap/viewer.h
 
 ![Interactive Map](https://github.com/waterdmd/Semantic_segmentation_for_LCLUC/blob/main/images/MAP.jpg)
 
-[link to] ()
+![link to] ()
