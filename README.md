@@ -4,4 +4,4 @@ View the interactive map [here](https://asu.maps.arcgis.com/home/webmap/viewer.h
 
 ![Interactive Map](https://github.com/waterdmd/Semantic_segmentation_for_LCLUC/blob/main/images/MAP.jpg)
 
-Training and validation dataset available: [link to](https://www.kaggle.com/datasets/rssamanebrahimi/multi-temporal-landsat8-imagery-for-lcluc/data)
+Training and validation dataset available at: [link to dataset](https://www.kaggle.com/datasets/rssamanebrahimi/multi-temporal-landsat8-imagery-for-lcluc/data)
